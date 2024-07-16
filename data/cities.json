@@ -1,40 +1,52 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
-      "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": 73930385
-    },
-    {
-      "cityName": "Madrid",
+      "cityName": "Cospeito",
       "country": "Spain",
       "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
+      "date": "2024-07-16T22:29:17.881Z",
       "notes": "",
       "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
+        "lat": "43.213183300738876",
+        "lng": "-7.646484375000001"
       },
-      "id": 17806751
+      "id": 98443200
     },
     {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
+      "cityName": "Santa Eularia des Riu",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-07-16T22:34:36.022Z",
+      "notes": "",
       "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
+        "lat": "38.989302551359515",
+        "lng": "1.3897705078125002"
       },
-      "id": 98443197
+      "id": 98443201
+    },
+    {
+      "cityName": "Santa Eularia des Riu",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-07-16T22:36:18.982Z",
+      "notes": "",
+      "position": {
+        "lat": "38.989302551359515",
+        "lng": "1.3897705078125002"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Torralba de los Frailes",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-07-16T22:52:08.323Z",
+      "notes": "",
+      "position": {
+        "lat": "41.02964338716641",
+        "lng": "-1.6287231445312502"
+      },
+      "id": 98443203
     }
   ]
 }
