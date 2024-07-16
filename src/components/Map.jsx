@@ -7,9 +7,9 @@ import {
   Marker,
   Popup,
   useMapEvents,
+  useMap,
 } from "react-leaflet";
-import { useCities } from "../context/CitiesContext";
-import { useMap } from "react-leaflet";
+import { useCities } from "../context/CitiesContext"; //Context Hook
 
 function Map() {
   const [searchParams] = useSearchParams();
