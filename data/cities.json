@@ -1,52 +1,16 @@
 {
   "cities": [
     {
-      "cityName": "Cospeito",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-07-16T22:29:17.881Z",
+      "cityName": "Thoires",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-07-17T04:39:33.373Z",
       "notes": "",
       "position": {
-        "lat": "43.213183300738876",
-        "lng": "-7.646484375000001"
+        "lat": "47.945786463687185",
+        "lng": "4.680175781250001"
       },
-      "id": 98443200
-    },
-    {
-      "cityName": "Santa Eularia des Riu",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-07-16T22:34:36.022Z",
-      "notes": "",
-      "position": {
-        "lat": "38.989302551359515",
-        "lng": "1.3897705078125002"
-      },
-      "id": 98443201
-    },
-    {
-      "cityName": "Santa Eularia des Riu",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-07-16T22:36:18.982Z",
-      "notes": "",
-      "position": {
-        "lat": "38.989302551359515",
-        "lng": "1.3897705078125002"
-      },
-      "id": 98443202
-    },
-    {
-      "cityName": "Torralba de los Frailes",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-07-16T22:52:08.323Z",
-      "notes": "",
-      "position": {
-        "lat": "41.02964338716641",
-        "lng": "-1.6287231445312502"
-      },
-      "id": 98443203
+      "id": 3
     }
   ]
 }
