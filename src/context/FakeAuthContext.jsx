@@ -47,10 +47,11 @@ function AuthProvider({ children }) {
 
 function useAuth() {
   //hook to access states in AuthProvider
-  const context = useContext(AuthProvider);
+  const context = useContext(AuthContext);
   if (context === undefined) {
     throw new Error("AuthContext was used outside of AuthProvider");
   }
+  return context;
 }
 
 export { useAuth, AuthProvider };
